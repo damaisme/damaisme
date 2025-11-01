@@ -4,9 +4,7 @@
 
 <img width="400px"  style="margin-top:20px;margin-right:13px" align="left" alt="image" src="https://github.com/user-attachments/assets/b28210ad-fb4c-4ab8-8a37-a3a66cf2ac33" />
 
-
 ```js
-
 const dama = {
   name = "Damasukma Trihanandi",
   username = "damaisme",
