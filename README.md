@@ -25,5 +25,5 @@ const dama = {
 
 ```
 
-### Updates
+<h3 style="margin-top:15px;">Updates</h3>
 - Open to work!
