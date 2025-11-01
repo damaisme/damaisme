@@ -14,10 +14,12 @@ const dama = {
   city = "Jakarta, 🇮🇩",
   lang = [ "id", "en" ],
   interests = [
-    "programming",
+    "web tech",
+    "system design",
+    "low level",
     "*.science",
     "math",
-    "φ+Losophy"
+    "φ+Losophy",
   ],
 }
 
